@@ -1,0 +1,6 @@
+1. Initialise environment for development
+ a) Android Studio
+ b) AVD
+ c) physical device
+2. Evaluate React-native / exponent
+3. Define common code for all sputnik clients (cordova?)
