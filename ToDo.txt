@@ -2,5 +2,6 @@
  a) Android Studio
  b) AVD
  c) physical device
+ d) Learn git ;)
 2. Evaluate React-native / exponent
 3. Define common code for all sputnik clients (cordova?)
